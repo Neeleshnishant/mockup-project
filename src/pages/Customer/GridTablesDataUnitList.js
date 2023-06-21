@@ -1,7 +1,7 @@
 import React from 'react';
 import { Grid, _ } from 'gridjs-react';
 import {Link} from "react-router-dom";
-import NameDetails from "../Customer/NameDetails"
+import NameDetails from "./NameDetails"
 
 const data = [
     ["Jonathan", "90909090", "jonathan@example.com", "Senior Implementation Architect", "Hauck Inc", "Holy See"],

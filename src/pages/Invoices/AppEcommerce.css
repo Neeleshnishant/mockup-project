@@ -1,0 +1,143 @@
+table{
+    display: table;
+    border-color: gray;
+    text-indent: initial;
+}   
+
+.paymentClass{
+    padding: 20px;
+}
+
+.PaymentBalance{
+    width:306px
+}
+
+.paymentValue{
+    padding-left: 119px;
+}
+
+.billIcon{
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+.edit{
+    font-size: 16px;
+}
+
+.table1{
+    margin-left: 550px;
+}
+
+.dropDownBtn{
+    height: 30px;
+}
+
+.menuIcon{
+    margin-left: 20px;
+}
+
+.currency{
+    font-size: 24px;
+    padding-left: 48px;
+}
+
+.majorContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.container1{
+    background-color: maroon;
+    color:white;
+    border-radius: 14px;
+    align-items: center;
+    justify-content: center ;
+    width: 222px;
+}
+
+.boxContainer{
+    padding-left: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.paid-container{
+    background-color: #00c292;
+    margin-left: 20px;
+}
+
+.amount-container{
+    background-color: #3788d8;
+    
+}
+
+.amountBoxContainer{
+    padding: 20px;
+}
+
+.due-container{
+    background-color:#fb9678;
+    margin-left: 20px;
+}
+
+.tableDataCell{
+    padding: 16px;
+}
+
+.btnJobs{
+    background-color: #00bcd4;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 24px 10px 24px;
+    border: #4c5667;
+    border-radius: 5px;
+}
+
+.unpaid{
+    background-color: #d9534f;
+    padding: 10px;
+    width: 120px;
+    border-radius: 10px;    
+    margin-bottom: 10px;
+}
+
+.txtUnpaid{
+    text-align: center;
+    color: white;
+}
+
+.span111{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.secondCard{
+    padding-top:20px !important;
+    padding-bottom:20px !important;
+}
+
+.thirdCard{
+    padding-top:10px !important;
+    padding-bottom:20px !important;
+}
+
+/* .totalCard{
+    width: 400px;
+} */
+
+.hoverDiv{
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 2s ease !important;
+}
+
+.hoverDiv:hover {
+    transform: scale(1.1);
+  }
+
+  .dropDownBtn{
+    height: 36px;
+  }
+
